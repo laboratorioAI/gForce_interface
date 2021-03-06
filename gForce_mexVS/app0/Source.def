@@ -1,0 +1,3 @@
+LIBRARY MYFILE
+EXPORTS mexFunction
+EXPORTS mexfilerequiredapiversion
