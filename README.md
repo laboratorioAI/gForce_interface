@@ -11,6 +11,8 @@ NOTA: Esta carpeta no es necesaria para la ejecución en Matlab, por lo que pued
 ## export_mexMatlab
 Carpeta en la que se exportará la función C++ MEX y que contiene las dependencias necesarias.
 
+## app_mat_mex_v0
+Carpeta con un proyecto de Visual Studio para compiliación de una función C++ MEX sin dependencias al SDK de GForce. Ideado para probar que la compilación esté correcta.
 
 # Créditos
 Laboratorio de Investigación en Inteligencia y Visión Artificial
