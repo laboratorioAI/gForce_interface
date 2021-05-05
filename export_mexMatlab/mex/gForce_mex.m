@@ -13,8 +13,7 @@
 %       accumulated since the last call of 'getEmg', 'clearEmg' or the
 %       first call of gForce_mex. In the case ADC resolution is 8 bits, the
 %       returned value is (uint8), on the contrary, a resolution of 12 bits
-%       returns a (uint16). The signal is centered in 127 when 8 bit
-%       resolution or in 2048 at 12 bits resolution.
+%       returns a (uint16).
 %       gForce_mex('clearEmg') clears the buffer of the Emg signal. This
 %       process is run everytime the frequency or the resolution is
 %       changed, so that different frequency data is not mixed.
